@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6e0c49ee32a355e41b4b67f89abb0303
+guid: 71738e27ebbbc4b4cac0cb848fe88b89
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5512957057226035010
-    second: ropa_0
+      213: 3269279359094584176
+    second: cama_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ropa_0
+      name: cama_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1
-        width: 32
-        height: 22
+        x: 1
+        y: 0
+        width: 58
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 24fc0f11c35f18c40800000000000000
-      internalID: 5512957057226035010
+      spriteID: 07379567140de5d20800000000000000
+      internalID: 3269279359094584176
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ropa_0: 5512957057226035010
+      cama_0: 3269279359094584176
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
