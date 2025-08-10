@@ -21,4 +21,10 @@ public class Puerta : MonoBehaviour
         if (collision.CompareTag("Player"))
             AreaJugador = true;
     }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        AreaJugador = false;
+    }
+
 }

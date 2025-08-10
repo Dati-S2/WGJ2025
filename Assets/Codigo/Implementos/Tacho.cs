@@ -9,6 +9,11 @@ public class Tacho : MonoBehaviour
         if (collision.CompareTag("Player"))
             AreaTacho = true;
     }
+    
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        AreaTacho = false;
+    }
     private void Update()
     {
         if (AreaTacho == true)
