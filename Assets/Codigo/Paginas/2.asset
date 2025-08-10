@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   panels:
-  - image: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  - image: {fileID: 21300000, guid: 7845ae02468a7804ba3fbb2a816dce83, type: 3}
     anchoredPosition: {x: 4.07, y: -0.31}
-    scale: {x: 1700, y: 1000}
+    scale: {x: 1950, y: 1150}
     animationType: 5
     delay: 0.1
     sound: {fileID: 0}
